@@ -50,7 +50,7 @@ public class ConsoleHelper {
     }
 
     private void getHelloMessage() {
-        System.out.println("Welcome to my program! I hope you will enjoy it!\nPlease enter the size of the array, program will fill it automatically: ");
+        System.out.println("Please enter the size of the array: ");
     }
 
     private void getByeMessage() {
